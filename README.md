@@ -90,6 +90,14 @@ Voici la liste des différents fichiers proposés dans CSV-TOOLS :
 			<td><b>SQL2CSV.PAS</b></td>
 			<td>Cette commande permet de convertir un fichier SQL en CSV.</td>
 		</tr>  
+		<tr>
+			<td><b>TSV2HTML.PAS</b></td>
+			<td>Cette commande permet de convertir un fichier TSV (Tab-Separated Values) en HTML.</td>
+		</tr>
+		<tr>
+			<td><b>TSV2MD.PAS</b></td>
+			<td>Cette commande permet de convertir un fichier TSV (Tab-Separated Values) en une table Markdown.</td>
+		</tr>	
 </table>
 
 <h2>Compilation</h2>
