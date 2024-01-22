@@ -110,6 +110,10 @@ Voici la liste des différents fichiers proposés dans CSV-TOOLS :
 			<td><b>TSV2MD.PAS</b></td>
 			<td>Cette commande permet de convertir un fichier TSV (Tab-Separated Values) en une table Markdown.</td>
 		</tr>	
+		<tr>
+			<td><b>TSVFAKER.PAS</b></td>
+			<td>Cette commande permet de générer un fichier TSV selon des données aléatoires spécifiés.</td>
+		</tr>	
 </table>
 
 <h2>Compilation</h2>
