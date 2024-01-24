@@ -95,6 +95,10 @@ Voici la liste des différents fichiers proposés dans CSV-TOOLS :
 			<td>Cette commande permet de convertir un fichier .DBF (DBase III) en format CSV.</td>
 		</tr>	
 		<tr>
+			<td><b>JO.PAS</b></td>
+			<td>Cette commande permet de créer des objets JSON.</td>
+		</tr>
+		<tr>
 			<td><b>MDT.PAS</b></td>
 			<td>Cette commande permet de convertir un fichier CSV ou TSV en une table Markdown.</td>
 		</tr>		
