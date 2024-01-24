@@ -3,7 +3,7 @@ Suite de commande d'aide pour le traitement de texte structuré écrit en Pascal
 
 <h2>Liste des fichiers</h2>
 
-Voici la liste des différents fichiers proposés dans CSV-TOOLS :
+Voici la liste des différents fichiers proposés dans STRUCTURED-TEXT-TOOLS :
 
 <table>
 		<tr>
