@@ -10,6 +10,10 @@ Voici la liste des différents fichiers proposés dans CSV-TOOLS :
 			<th>Nom</th>
 			<th>Description</th>	
 		</tr>
+	<tr>
+			<td><b>BEAUTIFY.PAS</b></td>
+			<td>Cette commande permet de rendre lisible le formatage d'un fichier de format JSON.</td>
+		</tr>
 		<tr>
 			<td><b>CATCSV.PAS</b></td>
 			<td>Cette commande permet de concaténer des fichiers CSV en un seul CSV.</td>
